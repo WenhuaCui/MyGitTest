@@ -12,5 +12,7 @@ public class MainActivity extends AppCompatActivity {
 
 
         System.out.println("master");
+
+        System.out.println("dev");
     }
 }
